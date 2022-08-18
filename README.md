@@ -1,4 +1,4 @@
-"# DNA-Sequence-Alignment" 
+# DNA-Sequence-Alignment
 Dynamic Programming Solution for Sequence Alignment
 
 Following are the goals of the project
